@@ -1,5 +1,5 @@
 h1 {
-color: blue;
+color: black;
 text-align: center;
 font-size: 60px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,6 +7,19 @@ border: 5px solid black;
 padding: 50px;
 background-color: wheat;
 }
+
+h2{
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+li, p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 
 body {
 background-color: grey;
@@ -20,10 +33,18 @@ margin-right: auto;
 
 }
 
-ul {
+#main-buttons {
     text-align: center;
     list-style-position: inside;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+
+button {
+font-size: 30px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+background-color: blue;
 }
