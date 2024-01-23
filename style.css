@@ -1,8 +1,11 @@
 h1 {
 color: blue;
 text-align: center;
-
-
+font-size: 60px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border: 5px solid black;
+padding: 50px;
+background-color: wheat;
 }
 
 body {
@@ -10,4 +13,17 @@ background-color: grey;
 
 } 
 
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
 
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
