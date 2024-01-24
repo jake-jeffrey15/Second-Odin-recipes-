@@ -46,5 +46,15 @@ font-size: 30px;
 margin-right: auto;
 margin-left: auto;
 display: block;
-background-color: blue;
+background-color: wheat;
+text-decoration: none;
+color: black;
+
+}
+
+
+#button-link {
+color: black;
+text-decoration: black;
+
 }
