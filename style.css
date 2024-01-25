@@ -14,12 +14,26 @@
 }
 
 
-#main-buttons {
+#burger-button{
 text-align: center;
 list-style-position: inside;
 font-size: 40px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: 'Courier New', Courier, monospace;
+}
 
+#potato-button{
+text-align: center;
+list-style-position: inside;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#chocolate-button{
+text-align: center;
+list-style-position: inside;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+}
     
 
 h1 {
